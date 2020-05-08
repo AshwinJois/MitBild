@@ -43,7 +43,7 @@ https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/
 
 Step4: Image Effects
 
-We all have used filters while editing an Image, uploading on instagram or any social media platforms. Now let us also add few filters on an Image in this tool.  https://pypi.org/project/pilgram/
+We all have used filters while editing an Image, uploading on instagram or any social media platforms. Now let us also add few filters on an Image in this tool. Just by clicking buttons under Image Effects section the filter will be applied to the Image as shown below. You can find more filters here https://pypi.org/project/pilgram/
 
 ![Image Filters](https://user-images.githubusercontent.com/63425115/81399318-7122cb80-9148-11ea-8d41-89670aee9842.JPG)
 
