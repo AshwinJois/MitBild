@@ -37,6 +37,8 @@ Step3: HSV Image, Harris Detection and Canny Detection
 Harris detection and Canny detection are feature detections which determines the Corner and Edge respectively in an Image. The HSV .i.e. Hue, Saturation and Value is an easier way to represent a color than RBG model. For HSV, Hue range is [0,179], Saturation range is [0,255] and Value range is [0,255].
 
 ![Feature Det](https://user-images.githubusercontent.com/63425115/81399270-5cdece80-9148-11ea-949c-4df329e95f5e.JPG)
+
+In order to know more, check
 https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_colorspaces/py_colorspaces.html and https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html#harris-corners
 
 Step4: Image Effects
