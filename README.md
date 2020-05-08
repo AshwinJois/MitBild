@@ -15,3 +15,24 @@ Just to make our lives simpler, Intel has developed OpenCV library of programmin
 
 Functionality of MitBild:
 ![Flow chart](https://user-images.githubusercontent.com/63425115/81398766-7f241c80-9147-11ea-9c7c-17880ebef0d3.JPG)
+
+How does the tool look like? Follow the steps below.
+
+Important: From the repository download MitBild.py and Help.py, make sure that both are in the same folder. 
+Step1: 
+Run MitBild.py and a new window opens which looks like this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
