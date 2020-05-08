@@ -54,7 +54,7 @@ Now, let us also see how the histogram changes with respect to the applied filte
 Step5: Salient features
 
 When we look at an Image, our brain will automatically focus on the important region in an Image. Let us implement this in our tool. 
-The Saliency Map determines roughly the important region present in the Image. Each pixel will be allotted a value between 0 and 1. If the pixel consists any important portion then it will assigned a value closer to 1 and vice versa. The Saliency Detection multiplies each pixel with 255 and calculates the Salient region. The Threshold Image  would be a useful to extract the ROI of the likely object. https://www.pyimagesearch.com/2018/07/16/opencv-saliency-detection/
+The Saliency Map determines roughly the important region present in the Image. Each pixel will be allotted a value between 0 and 1. If the pixel consists any important portion then it will assigned a value closer to 1 and vice versa. The Saliency Detection multiplies each pixel with 255 and calculates the Salient region. The Threshold Image  would be a useful to extract the ROI of the likely object. For detailed explanation check https://www.pyimagesearch.com/2018/07/16/opencv-saliency-detection/
 
 ![Saliency Detection](https://user-images.githubusercontent.com/63425115/81399416-96173e80-9148-11ea-81d8-1e5a2411217e.jpg)
 
