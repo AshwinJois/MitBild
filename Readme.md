@@ -18,7 +18,8 @@ Functionality of MitBild:
 
 How does the tool look like? Follow the steps below.
 
-Important: From the repository download MitBild.py and Help.py, make sure that both are in the same folder. 
+**Important: From the repository download MitBild.py and Help.py, make sure that both are in the same folder**
+
 Step1: 
 Run MitBild.py and a new window opens which looks like this
 
