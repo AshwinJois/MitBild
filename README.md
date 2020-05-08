@@ -22,6 +22,8 @@ Important: From the repository download MitBild.py and Help.py, make sure that b
 Step1: 
 Run MitBild.py and a new window opens which looks like this
 
+![1 GUI MainWindow](https://user-images.githubusercontent.com/63425115/81399594-dc6c9d80-9148-11ea-9086-f2d3f65377d2.JPG)
+
 
 
 
