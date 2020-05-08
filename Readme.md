@@ -1,4 +1,4 @@
-Hello everyone, I have explained briefly my approach in making a GUI and I have named it as “MitBild” which deals with computer vision applications.  
+Hello Developers, I have explained briefly my approach in making a GUI and I have named it as “MitBild” which deals with computer vision applications.  
 
 How can I create a GUI?
 
