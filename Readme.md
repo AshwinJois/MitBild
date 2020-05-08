@@ -64,7 +64,7 @@ What is Object Detection?
  
  Step6: Object Detection 
  
-In this tool we are using OpenCV framework with YOLO algorithm to detect object. Just make sure that you have OpenCV 3.4.2 at least installed in your system. In order to detect objects we need to have some important files such as Weight file, cfg file and Name files which can be downloaded from https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/. 
+In this tool we are using OpenCV framework with YOLO algorithm to detect objects. Just make sure that you have OpenCV 3.4.2 at least installed in your system. In order to detect objects we need to have some important files such as Weight file, cfg file and Name files which can be downloaded from https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/. 
 
 Important: Make sure that MitBild.py, Help.py, coco.names, yolov3 and yolov3.weights are in the same folder in order to detect objects successfully. 
 
