@@ -1,6 +1,6 @@
-Hello Developers, I have explained briefly my approach in making a GUI and I have named it as “MitBild” which deals with computer vision applications.  
+**Hello Developers, I have explained briefly my approach in making a GUI and I have named it as “MitBild” which deals with computer vision applications. 
 
-How can I create a GUI?
+**How can I create a GUI?
 
 We can create a GUI of our own by making use of Tkinter or by using PyQt library. Here, I have used PyQt library as I felt it was much more easier than Tkinter. You will need to download Qt Designer first, once the download is completed you can start designing how you want your GUI to look like. Check https://doc.qt.io/qt-5/qtdesigner-manual.html and https://dev.to/amigosmaker/python-gui-pyqt-vs-tkinter-5hdd for detailed information.
 
