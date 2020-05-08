@@ -7,7 +7,7 @@ We can create a GUI of our own by making use of Tkinter or by using PyQt library
 Just a GUI? 
 
 We all know GUI is a tool which varies from a simple Calculator to Google Chrome and much more. Now it’s left to us how we want our GUI to function. Shall we make a GUI which deals with Images? Seems fine, let’s get started.
-This GUI will deal with image and basic operations on the image such as rotate right, left and flip with the help of buttons. Whenever a button is clicked, some operation should be performed on the image and it should be displayed.
+This GUI will deal with image and basic operations on the image such as rotate right, left and flip with the help of buttons. Detailed information about this tool can be understood in the MitBild functionality section below. Whenever a button is clicked, some operation should be performed on the image and it should be displayed.
 
 How to operate with Image?
 
