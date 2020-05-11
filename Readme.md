@@ -68,7 +68,7 @@ In this tool we are using OpenCV framework with YOLO algorithm to detect objects
 
 **Important: Make sure that MitBild.py, AboutWindow.py, coco.names, yolov3 and yolov3.weights are in the same folder in order to detect objects successfully** 
 
-![Object Detection](https://user-images.githubusercontent.com/63425115/81399374-84ce3200-9148-11ea-8f01-8189bb0cbc24.jpg)
+![9 ObjectDet](https://user-images.githubusercontent.com/63425115/81541780-48414700-9391-11ea-9c3c-42f5343707c8.JPG)
 
 **Step7:** You can Save the displayed image as JPEG format. The Exit button closes the tool.
 
