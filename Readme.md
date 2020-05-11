@@ -70,10 +70,9 @@ In this tool we are using OpenCV framework with YOLO algorithm to detect objects
 
 ![9 ObjectDet](https://user-images.githubusercontent.com/63425115/81541780-48414700-9391-11ea-9c3c-42f5343707c8.JPG)
 
-Object detection on other Images
-![det1](https://user-images.githubusercontent.com/63425115/81542200-e7663e80-9391-11ea-9f7e-a1614fb527af.jpg)
+Object detection on other Images:
 
-![det](https://user-images.githubusercontent.com/63425115/81542265-01a01c80-9392-11ea-8eca-640cbc086a44.jpg)
+![od](https://user-images.githubusercontent.com/63425115/81543069-38c2fd80-9393-11ea-9598-13a846d56ffe.JPG)
 
 **Step7:** You can Save the displayed image as JPEG format. The Exit button closes the tool.
 
