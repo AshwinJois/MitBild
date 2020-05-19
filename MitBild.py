@@ -5,8 +5,8 @@ import sys
 import os
 import numpy as np
 import shutil
-from PIL import Image
 import pilgram
+from PIL import Image
 from matplotlib import pyplot as plt
 from PyQt5 import QtCore, QtGui, QtWidgets 
 from PyQt5.QtCore import Qt 
