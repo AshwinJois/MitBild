@@ -12,7 +12,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import Qt 
 from PyQt5.QtGui import QPixmap 
 from PyQt5.QtWidgets import  QFileDialog ,QButtonGroup, QLabel 
-from helpwindow import Ui_HelpWindow
+from AboutWindow import Ui_HelpWindow
 
 
 class Ui_MainWindow(object):
